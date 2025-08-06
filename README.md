@@ -32,7 +32,7 @@ This project provides a *Bash script* to automate *daily system backups, log man
 
 1. *Clone the repo:*
    bash
-   git clone https://github.com/yourusername/daily-backup-script.git
+   git clone https://github.com/aliahmed252/scored-task1.git
    cd daily-backup-script
    
 
