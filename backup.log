@@ -1,0 +1,359 @@
+Backup started at Mon Aug  4 07:30:00 PM EEST 2025
+tar: Removing leading `/' from member names
+tar: /var/lib/gdm/.cache/ibus/dbus-lHvyss4d: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-r0djVO0k: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-X7b8Ocs8: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-rs78t0rG: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-2CbR0f46: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-yknXL6D8: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-IR8fORdn: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-M5s5YKfS: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-RkAb3Apg: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-lpGFb344: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-rsX1uhQo: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-LjEkCAbU: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-tgPCds8h: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-DWUHSMjy: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-HbwlTwmY: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-bcatohHB: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ee44aX49: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-pfpHNFht: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-WFTB8l8E: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-BVTcqesW: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-kXVSwdJK: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-OcSgQ7Vh: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-Ol54MMRQ: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-jYhQP9IN: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-kataD7KD: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ie67cER0: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-WHHArIBJ: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-NxsL1g9Y: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-enmbONjs: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-6Ldm6ppC: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-YBabuoKU: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-0Yn3btXn: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-UkhT47Tl: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-SLM511i2: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-COe1XkJf: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-51V9WUv3: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-wac5Xv4p: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-HiQtuwA0: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-2yaCB687: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-MJABDePP: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-OvY8mX3B: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ogacG5TX: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ELI4rVP7: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-k2f5jAxp: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-siTWPKGX: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-yBJS9jNd: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-i1r0seSp: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-9Exd5H1s: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-is8OtKft: socket ignored
+tar: /var/spool/postfix/private/tlsmgr: socket ignored
+tar: /var/spool/postfix/private/rewrite: socket ignored
+tar: /var/spool/postfix/private/bounce: socket ignored
+tar: /var/spool/postfix/private/defer: socket ignored
+tar: /var/spool/postfix/private/trace: socket ignored
+tar: /var/spool/postfix/private/verify: socket ignored
+tar: /var/spool/postfix/private/proxymap: socket ignored
+tar: /var/spool/postfix/private/proxywrite: socket ignored
+tar: /var/spool/postfix/private/smtp: socket ignored
+tar: /var/spool/postfix/private/relay: socket ignored
+tar: /var/spool/postfix/private/error: socket ignored
+tar: /var/spool/postfix/private/retry: socket ignored
+tar: /var/spool/postfix/private/discard: socket ignored
+tar: /var/spool/postfix/private/local: socket ignored
+tar: /var/spool/postfix/private/virtual: socket ignored
+tar: /var/spool/postfix/private/lmtp: socket ignored
+tar: /var/spool/postfix/private/anvil: socket ignored
+tar: /var/spool/postfix/private/scache: socket ignored
+tar: /var/spool/postfix/public/pickup: socket ignored
+tar: /var/spool/postfix/public/cleanup: socket ignored
+tar: /var/spool/postfix/public/qmgr: socket ignored
+tar: /var/spool/postfix/public/flush: socket ignored
+tar: /var/spool/postfix/public/showq: socket ignored
+tar: /var/spool/postfix/public/postlog: socket ignored
+Backup started at Mon Aug  4 07:44:00 PM EEST 2025
+tar: Removing leading `/' from member names
+Backup started at Mon Aug  4 07:48:00 PM EEST 2025
+tar: Removing leading `/' from member names
+tar: /var/account/pacct: Cannot open: Permission denied
+tar: /var/cache/httpd: Cannot open: Permission denied
+tar: /var/cache/ldconfig: Cannot open: Permission denied
+tar: /var/cache/libvirt: Cannot open: Permission denied
+tar: /var/cache/private: Cannot open: Permission denied
+tar: /var/cache/cups: Cannot open: Permission denied
+tar: /var/cache/libdnf5/updates-79babcf8637033ce/tmpdir.Lb4Lux: Cannot open: Permission denied
+tar: /var/db/sudo: Cannot open: Permission denied
+tar: /var/lib/AccountsService/users: Cannot open: Permission denied
+tar: /var/lib/NetworkManager: Cannot open: Permission denied
+tar: /var/lib/abrt/abrt-dump-journal-core.state: Cannot open: Permission denied
+tar: /var/lib/bluetooth: Cannot open: Permission denied
+tar: /var/lib/chrony: Cannot open: Permission denied
+tar: /var/lib/colord/.cache: Cannot open: Permission denied
+tar: /var/lib/containers/storage/tmp: Cannot open: Permission denied
+tar: /var/lib/fprint: Cannot open: Permission denied
+tar: /var/lib/fwupd/pki/secret.key: Cannot open: Permission denied
+tar: /var/lib/fwupd/gnupg: Cannot open: Permission denied
+tar: /var/lib/gdm: Cannot open: Permission denied
+tar: /var/lib/gssproxy/clients: Cannot open: Permission denied
+tar: /var/lib/gssproxy/rcache: Cannot open: Permission denied
+tar: /var/lib/httpd: Cannot open: Permission denied
+tar: /var/lib/libvirt/boot: Cannot open: Permission denied
+tar: /var/lib/libvirt/filesystems: Cannot open: Permission denied
+tar: /var/lib/libvirt/images: Cannot open: Permission denied
+tar: /var/lib/libvirt/network: Cannot open: Permission denied
+tar: /var/lib/libvirt/qemu: Cannot open: Permission denied
+tar: /var/lib/libvirt/swtpm: Cannot open: Permission denied
+tar: /var/lib/logrotate/logrotate.status: Cannot open: Permission denied
+tar: /var/lib/nfs/rpc_pipefs/gssd/clntXX/info: Cannot open: Permission denied
+tar: /var/lib/nfs/statd: Cannot open: Permission denied
+tar: /var/lib/openvpn: Cannot open: Permission denied
+tar: /var/lib/plocate/plocate.db: Cannot open: Permission denied
+tar: /var/lib/polkit-1: Cannot open: Permission denied
+tar: /var/lib/portables: Cannot open: Permission denied
+tar: /var/lib/private: Cannot open: Permission denied
+tar: /var/lib/rsyslog: Cannot open: Permission denied
+tar: /var/lib/samba/private: Cannot open: Permission denied
+tar: /var/lib/selinux/final: Cannot open: Permission denied
+tar: /var/lib/selinux/targeted/active: Cannot open: Permission denied
+tar: /var/lib/selinux/targeted/semanage.read.LOCK: Cannot open: Permission denied
+tar: /var/lib/selinux/targeted/semanage.trans.LOCK: Cannot open: Permission denied
+tar: /var/lib/sss/db: Cannot open: Permission denied
+tar: /var/lib/sss/deskprofile: Cannot open: Permission denied
+tar: /var/lib/sss/gpo_cache: Cannot open: Permission denied
+tar: /var/lib/sss/pipes/private: Cannot open: Permission denied
+tar: /var/lib/sss/secrets: Cannot open: Permission denied
+tar: /var/lib/swtpm-localca: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.httpd.0.e722dc82b0e34794be2f5a6a532b8595.958.1753108821000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.e722dc82b0e34794be2f5a6a532b8595.969.1753108827000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.1f3a846d8e3c4a27bc36d94642a18e74.864.1753185277000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.httpd.0.1f3a846d8e3c4a27bc36d94642a18e74.854.1753185277000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.1f3a846d8e3c4a27bc36d94642a18e74.1394.1753185373000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.3ccaa8a64f374cb9974e27f0198c5aa2.910.1753185435000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.31f235b869a242c18401ca5abfd85b58.935.1753199471000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.bd1813e8259a4eb0a6334c6269a20321.866.1753462177000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.httpd.0.bd1813e8259a4eb0a6334c6269a20321.856.1753462176000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.bd1813e8259a4eb0a6334c6269a20321.1405.1753462278000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.bd1813e8259a4eb0a6334c6269a20321.1485.1753462379000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.abc0b88343bc418c93c000e1ab6413ec.920.1753462364000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.e13f91bf4e894962803a9bec1fcc4b66.907.1753462428000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.8b5726e0529e4cdf805e33a795fc16ca.927.1753467209000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.2c140cab78ff49c6b6c4e7f834a613a0.919.1753530789000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.146f120b6b6746c5bf29acc4459c2bf2.856.1753866378000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.httpd.0.146f120b6b6746c5bf29acc4459c2bf2.845.1753866377000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.146f120b6b6746c5bf29acc4459c2bf2.1382.1753866478000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.146f120b6b6746c5bf29acc4459c2bf2.1458.1753866575000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.plymouthd.0.683ace3ca492475ea383e231caff0750.380.1753995358000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.7e3e34d2ba4b405b907a829feeb9358b.919.1754223505000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.a364070820a3438a904db6fb1379401a.921.1754223589000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.plymouthd.0.be165f9e50ab45839570f763cb5d2e73.376.1754234927000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.httpd.0.9fe547d706e2497ca6431562e15ba62d.849.1754309033000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.9fe547d706e2497ca6431562e15ba62d.861.1754309035000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.udisksd.0.9fe547d706e2497ca6431562e15ba62d.873.1754309032000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.9fe547d706e2497ca6431562e15ba62d.1217.1754309137000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/coredump/core.rsyslogd.0.9fe547d706e2497ca6431562e15ba62d.1299.1754309235000000.zst: Cannot open: Permission denied
+tar: /var/lib/systemd/random-seed: Cannot open: Permission denied
+tar: /var/lib/udisks2: Cannot open: Permission denied
+tar: /var/lib/gnome-remote-desktop: Cannot open: Permission denied
+tar: /var/lib/machines: Cannot open: Permission denied
+tar: /var/lib/passim/secret.key: Cannot open: Permission denied
+tar: /var/lib/passim/cert.pem: Cannot open: Permission denied
+tar: /var/lib/nginx: Cannot open: Permission denied
+tar: /var/lib/php/opcache: Cannot open: Permission denied
+tar: /var/lib/php/session: Cannot open: Permission denied
+tar: /var/lib/php/wsdlcache: Cannot open: Permission denied
+tar: /var/lib/postfix: Cannot open: Permission denied
+tar: /var/log/audit: Cannot open: Permission denied
+tar: /var/log/chrony: Cannot open: Permission denied
+tar: /var/log/gdm: Cannot open: Permission denied
+tar: /var/log/httpd: Cannot open: Permission denied
+tar: /var/log/libvirt: Cannot open: Permission denied
+tar: /var/log/ppp: Cannot open: Permission denied
+tar: /var/log/private: Cannot open: Permission denied
+tar: /var/log/samba: Cannot open: Permission denied
+tar: /var/log/speech-dispatcher: Cannot open: Permission denied
+tar: /var/log/sssd: Cannot open: Permission denied
+tar: /var/log/swtpm/libvirt/qemu: Cannot open: Permission denied
+tar: /var/log/anaconda/anaconda.log: Cannot open: Permission denied
+tar: /var/log/anaconda/program.log: Cannot open: Permission denied
+tar: /var/log/anaconda/packaging.log: Cannot open: Permission denied
+tar: /var/log/anaconda/storage.log: Cannot open: Permission denied
+tar: /var/log/anaconda/dbus.log: Cannot open: Permission denied
+tar: /var/log/anaconda/journal.log: Cannot open: Permission denied
+tar: /var/log/boot.log: Cannot open: Permission denied
+tar: /var/log/firewalld: Cannot open: Permission denied
+tar: /var/log/passim/audit.log: Cannot open: Permission denied
+tar: /var/log/btmp-20250701: Cannot open: Permission denied
+tar: /var/log/btmp: Cannot open: Permission denied
+tar: /var/log/boot.log-20250706: Cannot open: Permission denied
+tar: /var/log/cron-20250706: Cannot open: Permission denied
+tar: /var/log/maillog-20250706: Cannot open: Permission denied
+tar: /var/log/messages-20250706: Cannot open: Permission denied
+tar: /var/log/secure-20250706: Cannot open: Permission denied
+tar: /var/log/spooler-20250706: Cannot open: Permission denied
+tar: /var/log/boot.log-20250710: Cannot open: Permission denied
+tar: /var/log/boot.log-20250714: Cannot open: Permission denied
+tar: /var/log/cron-20250714: Cannot open: Permission denied
+tar: /var/log/maillog-20250714: Cannot open: Permission denied
+tar: /var/log/messages-20250714: Cannot open: Permission denied
+tar: /var/log/secure-20250714: Cannot open: Permission denied
+tar: /var/log/spooler-20250714: Cannot open: Permission denied
+tar: /var/log/boot.log-20250720: Cannot open: Permission denied
+tar: /var/log/cron-20250720: Cannot open: Permission denied
+tar: /var/log/maillog-20250720: Cannot open: Permission denied
+tar: /var/log/messages-20250720: Cannot open: Permission denied
+tar: /var/log/secure-20250720: Cannot open: Permission denied
+tar: /var/log/spooler-20250720: Cannot open: Permission denied
+tar: /var/log/boot.log-20250721: Cannot open: Permission denied
+tar: /var/log/nginx: Cannot open: Permission denied
+tar: /var/log/boot.log-20250726: Cannot open: Permission denied
+tar: /var/log/boot.log-20250731: Cannot open: Permission denied
+tar: /var/log/cron-20250731: Cannot open: Permission denied
+tar: /var/log/cron: Cannot open: Permission denied
+tar: /var/log/maillog-20250731: Cannot open: Permission denied
+tar: /var/log/maillog: Cannot open: Permission denied
+tar: /var/log/messages-20250731: Cannot open: Permission denied
+tar: /var/log/messages: Cannot open: Permission denied
+tar: /var/log/secure-20250731: Cannot open: Permission denied
+tar: /var/log/secure: Cannot open: Permission denied
+tar: /var/log/spooler-20250731: Cannot open: Permission denied
+tar: /var/log/spooler: Cannot open: Permission denied
+tar: /var/log/php-fpm: Cannot open: Permission denied
+tar: /var/spool/abrt-upload: Cannot open: Permission denied
+tar: /var/spool/abrt: Cannot open: Permission denied
+tar: /var/spool/anacron/cron.daily: Cannot open: Permission denied
+tar: /var/spool/anacron/cron.monthly: Cannot open: Permission denied
+tar: /var/spool/anacron/cron.weekly: Cannot open: Permission denied
+tar: /var/spool/at: Cannot open: Permission denied
+tar: /var/spool/cron: Cannot open: Permission denied
+tar: /var/spool/cups: Cannot open: Permission denied
+tar: /var/spool/mail/ali: Cannot open: Permission denied
+tar: /var/spool/mail/route1: Cannot open: Permission denied
+tar: /var/spool/mail/route2: Cannot open: Permission denied
+tar: /var/spool/mail/alii: Cannot open: Permission denied
+tar: /var/spool/mail/route4: Cannot open: Permission denied
+tar: /var/spool/mail/route5: Cannot open: Permission denied
+tar: /var/spool/mail/alli: Cannot open: Permission denied
+tar: /var/spool/mail/test: Cannot open: Permission denied
+tar: /var/spool/mail/alice: Cannot open: Permission denied
+tar: /var/spool/mail/bob: Cannot open: Permission denied
+tar: /var/spool/mail/charlie: Cannot open: Permission denied
+tar: /var/spool/mail/devuser: Cannot open: Permission denied
+tar: /var/spool/mail/qauser: Cannot open: Permission denied
+tar: /var/spool/postfix/active: Cannot open: Permission denied
+tar: /var/spool/postfix/bounce: Cannot open: Permission denied
+tar: /var/spool/postfix/corrupt: Cannot open: Permission denied
+tar: /var/spool/postfix/defer: Cannot open: Permission denied
+tar: /var/spool/postfix/deferred: Cannot open: Permission denied
+tar: /var/spool/postfix/flush: Cannot open: Permission denied
+tar: /var/spool/postfix/hold: Cannot open: Permission denied
+tar: /var/spool/postfix/incoming: Cannot open: Permission denied
+tar: /var/spool/postfix/maildrop: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/master.pid: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/unix.cleanup: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/unix.smtp: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/unix.error: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/unix.bounce: Cannot open: Permission denied
+tar: /var/spool/postfix/pid/unix.defer: Cannot open: Permission denied
+tar: /var/spool/postfix/private: Cannot open: Permission denied
+tar: /var/spool/postfix/public: Cannot open: Permission denied
+tar: /var/spool/postfix/saved: Cannot open: Permission denied
+tar: /var/spool/postfix/trace: Cannot open: Permission denied
+tar: /var/tmp/rpm-tmp.9VcasV: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-systemd-oomd.service-Ro6it9: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-systemd-resolved.service-OoaKKB: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-dbus-broker.service-HNjtwt: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-abrtd.service-8zXG9q: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-irqbalance.service-Dp0wdW: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-chronyd.service-muaXKU: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-low-memory-monitor.service-5d70bn: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-polkit.service-FnrFEX: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-rtkit-daemon.service-ycSUvV: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-switcheroo-control.service-zozqI7: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-systemd-logind.service-optwMr: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-upower.service-b3QxF0: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-ModemManager.service-iQsdm3: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-php-fpm.service-dpS51h: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-httpd.service-cF5uHH: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-colord.service-03LIcR: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-geoclue.service-HLD6mu: Cannot open: Permission denied
+tar: /var/tmp/systemd-private-178aa69a10384fc3a8bc73a708555048-postfix.service-EuPCcT: Cannot open: Permission denied
+tar: Exiting with failure status due to previous errors
+Backup started at Mon Aug  4 07:53:58 PM EEST 2025
+tar: Removing leading `/' from member names
+tar: /var/lib/gdm/.cache/ibus/dbus-lHvyss4d: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-r0djVO0k: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-X7b8Ocs8: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-rs78t0rG: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-2CbR0f46: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-yknXL6D8: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-IR8fORdn: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-M5s5YKfS: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-RkAb3Apg: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-lpGFb344: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-rsX1uhQo: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-LjEkCAbU: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-tgPCds8h: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-DWUHSMjy: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-HbwlTwmY: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-bcatohHB: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ee44aX49: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-pfpHNFht: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-WFTB8l8E: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-BVTcqesW: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-kXVSwdJK: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-OcSgQ7Vh: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-Ol54MMRQ: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-jYhQP9IN: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-kataD7KD: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ie67cER0: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-WHHArIBJ: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-NxsL1g9Y: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-enmbONjs: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-6Ldm6ppC: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-YBabuoKU: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-0Yn3btXn: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-UkhT47Tl: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-SLM511i2: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-COe1XkJf: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-51V9WUv3: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-wac5Xv4p: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-HiQtuwA0: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-2yaCB687: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-MJABDePP: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-OvY8mX3B: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ogacG5TX: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-ELI4rVP7: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-k2f5jAxp: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-siTWPKGX: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-yBJS9jNd: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-i1r0seSp: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-9Exd5H1s: socket ignored
+tar: /var/lib/gdm/.cache/ibus/dbus-is8OtKft: socket ignored
+tar: /var/spool/postfix/private/tlsmgr: socket ignored
+tar: /var/spool/postfix/private/rewrite: socket ignored
+tar: /var/spool/postfix/private/bounce: socket ignored
+tar: /var/spool/postfix/private/defer: socket ignored
+tar: /var/spool/postfix/private/trace: socket ignored
+tar: /var/spool/postfix/private/verify: socket ignored
+tar: /var/spool/postfix/private/proxymap: socket ignored
+tar: /var/spool/postfix/private/proxywrite: socket ignored
+tar: /var/spool/postfix/private/smtp: socket ignored
+tar: /var/spool/postfix/private/relay: socket ignored
+tar: /var/spool/postfix/private/error: socket ignored
+tar: /var/spool/postfix/private/retry: socket ignored
+tar: /var/spool/postfix/private/discard: socket ignored
+tar: /var/spool/postfix/private/local: socket ignored
+tar: /var/spool/postfix/private/virtual: socket ignored
+tar: /var/spool/postfix/private/lmtp: socket ignored
+tar: /var/spool/postfix/private/anvil: socket ignored
+tar: /var/spool/postfix/private/scache: socket ignored
+tar: /var/spool/postfix/public/pickup: socket ignored
+tar: /var/spool/postfix/public/cleanup: socket ignored
+tar: /var/spool/postfix/public/qmgr: socket ignored
+tar: /var/spool/postfix/public/flush: socket ignored
+tar: /var/spool/postfix/public/showq: socket ignored
+tar: /var/spool/postfix/public/postlog: socket ignored
+Backup started at Tue Aug  5 05:15:00 PM EEST 2025
+tar: Removing leading `/' from member names
